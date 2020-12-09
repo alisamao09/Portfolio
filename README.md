@@ -24,4 +24,4 @@ Data science projects, 2019-2020
 * Represent the rate of social activity of the Toronto Public Health account by birds flying around the words, according to data found on SocialBlade
 * Analyzed limitations, subjectivity, data bias and the potential of this project
 ![](/images/WX20201208-200425%402x.png)
-[[Here's the video!]](https://www.youtube.com/watch?v=ysZuOS9UK90)
+[Here's the video!](https://www.youtube.com/watch?v=ysZuOS9UK90)
