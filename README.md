@@ -1,7 +1,7 @@
 # data-science-portfolio
 Data science projects, 2019-2020
 # [Project 1: Classifying students' open-ended responses in large class](https://github.com/alisamao09/research-project-1)
-* Tested multiple training and test filters to filter out non-answers, with success rate above 90%
+* Tested multiple training and test filters to filter out non-answers, with a success rate above 90%
 * Pre-processed text data by stemming words, removing stop words and punctuations, making lowercase, and including "tuples"
 * Calculated word frequency by TFIDF
 * Explored multiple unsupervised clustering algorithms such as K-means, affinity clustering, and GMM etc.
@@ -27,7 +27,7 @@ Data science projects, 2019-2020
 - Created a list containing all data (number of words and cases) by month (8 months in all), extruded them using the data as the height (scaled death cases by 0.001 due to its huge amount)
 - Visualized those changes by changing number slider, from the first month to the final month
 - Applied materials to texts and the hospital bed
-* Represent the rate of social activity of the Toronto Public Health account by birds flying around the words, according to data found on SocialBlade
+* Represented the rate of social activity of the Toronto Public Health account by birds flying around the words, according to data found on SocialBlade
 * Analyzed limitations, subjectivity, data bias and the potential of this project
 ![](/images/WX20201208-200425%402x.png)
 [Here's the video!](https://www.youtube.com/watch?v=ysZuOS9UK90)
