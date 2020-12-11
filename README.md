@@ -5,6 +5,7 @@ Data science projects, 2019-2020
 * Pre-processed text data by stemming words, removing stop words and punctuations, making lowercase, and including "tuples"
 * Calculated word frequency by TFIDF
 * Explored multiple unsupervised clustering algorithms such as K-means, affinity clustering, and GMM etc.
+* Projected clusterings to 2D space and printed out N important terms for each cluster
 # [Project 2: Is systolic blood pressure reading related to gender, age, poverty, weight, sleep trouble, and smoking habit? American population-based study](https://github.com/alisamao09/STA302)
 * Constructed multiple linear regression models and selected the one that has the largest impact on the change of systolic blood pressure and provides the most accurate predictions based on the dataset
 * Explored mostly related variables to the change of systolic blood pressure reading (BPSysAve) and the best predictors for combined systolic blood pressure accurate reading
