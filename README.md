@@ -32,6 +32,6 @@ Data science projects, 2019-2020
 ![](/images/WX20201208-200425%402x.png)
 [Here's the video!](https://www.youtube.com/watch?v=ysZuOS9UK90)
 # [Miscellaneous](https://github.com/alisamao09/Miscellaneous-projects)
-Data visualization with the depth of the water and the sound volume
-
-Re-construct artworks by Python in Grasshopper
+ Data visualization with the depth of the water and the sound volume
+ 
+ Re-construct artworks by Python in Grasshopper
