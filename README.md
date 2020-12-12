@@ -1,5 +1,5 @@
-# data-science-portfolio
-Data science projects, 2019-2020
+# Portfolio
+Data science and analytics projects, 2019-2020
 # [Project 1: Classifying students' open-ended responses in large class](https://github.com/alisamao09/research-project-1)
 * Tested multiple training and test filters to filter out non-answers, with a success rate above 90%
 * Pre-processed text data by stemming words, removing stop words and punctuations, making lowercase, and including "tuples"
