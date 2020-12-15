@@ -31,6 +31,10 @@ Data science and analytics projects, 2019-2020
 * Analyzed limitations, subjectivity, data bias and the potential of this project
 ![](/images/WX20201208-200425%402x.png)
 [Here's the video!](https://www.youtube.com/watch?v=ysZuOS9UK90)
+# [Experimental project: Design and Analysis of an Experiment](https://github.com/alisamao09/Design-and-Analysis-of-Experiments)
+* Used factorial design, performed 20 experiments in total, two distances of 15cm and 10cm are set between the thumb and the chopstick head
+* Took influence factors into considerations and tried to eliminate other factors
+* Constructed linear model, interaction plot, QQ plot, confidence intervals, and T-tests etc.
 # [Miscellaneous](https://github.com/alisamao09/Miscellaneous-projects)
 1. Design and Analysis of an Experiment
 2. Data visualization with the depth of the water and the sound volume
