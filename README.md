@@ -17,7 +17,12 @@ Data science and analytics projects, 2019-2020
 * Analyzed the rudimentary information of patients, medications and laboratory tests taken during the diabetic encounter to identify patients with worse treatment outcomes and made them targeted to interventions to improve their outcomes and reduce costs by fewer readmission
 * Performed diagnostic check
 * Interpreted the final model and discussed limitations and potentials
-# [Project 4: Covid-19 What’s all the fuss?](https://github.com/alisamao09/ARC-480)
+# [Project 4: Map interaction design](https://github.com/alisamao09/Map-interaction-design)
+* Applied shapes to water condition improvement methods for visual representation
+* Designed and formatted the charts, and set up tool tips
+* Arranged objects in containers 
+* Designed the layout for the mobile app and the website
+# [Project 5: Covid-19 What’s all the fuss?](https://github.com/alisamao09/ARC-480)
 * Demonstrated patterns between COVID-19 case counts and the ongoing discussion of the virus on social media
 * Scraped key phrases in tweets regarding COVID by ScrapeStorm, filtering them by tweet location (Toronto) and months (March to December)
 * Found the most frequent words by calculating word frequencies using WriteWords
