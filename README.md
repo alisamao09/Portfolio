@@ -1,5 +1,5 @@
 # Portfolio
-Data science and analytics projects, 2019-2021
+Data science and analytics projects, 2019-2022
 # [Project 1: Machine Learning Classifiers on Traditional and Modern Tobacco Use](https://github.com/alisamao09/Machine-Learning-Classifiers-on-Traditional-and-Modern-Tobacco-Use)
 * Tobacco use has an evidence-based association with many chronic diseases such as cancer, cardiovascular disease, mental disorders, etc. Although combustible
 cigarette use has declined in the US, the percentage of some users of modern tobacco products such as e-cigarette users who initiated at a young age is 3 times
