@@ -44,4 +44,5 @@ higher in 2018 than 2014. Therefore, more attention should be focused on modern 
 3. Re-construct artworks by Python in Grasshopper
 4. Covid-19 What’s all the fuss?
 5. Is systolic blood pressure reading related to gender, age, poverty, weight, sleep trouble, and smoking habit? American population-based study
-6. Deep Learning for Computer Vision (https://github.com/alisamao09/Deep-learning-for-computer-vision)
+6. Data Structures projects (https://github.com/alisamao09/data-structures)
+7. Deep Learning for Computer Vision (https://github.com/alisamao09/Deep-learning-for-computer-vision)
