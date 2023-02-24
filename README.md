@@ -60,3 +60,4 @@ higher in 2018 than 2014. Therefore, more attention should be focused on modern 
 5. Is systolic blood pressure reading related to gender, age, poverty, weight, sleep trouble, and smoking habit? American population-based study
 6. Data Structures projects (https://github.com/alisamao09/data-structures)
 7. Deep Learning for Computer Vision (https://github.com/alisamao09/Deep-learning-for-computer-vision)
+8. Database Management Systems (https://github.com/alisamao09/Database-Management-Systems#database-management-systems)
